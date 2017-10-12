@@ -1,0 +1,8 @@
+<templateSet group="documentation">
+  <template name="date" value="$date$" description="Current date" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date(&quot;MMMM d, yyyy&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,5 +1,5 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="CloseProject">
-    <keyboard-shortcut first-keystroke="ctrl f4" second-keystroke="f4" />
+    <keyboard-shortcut first-keystroke="ctrl alt f4" />
   </action>
 </keymap>

@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[Assignments] - ...\Assignments\src\GolfClubs.java'" />
     <option name="defaultScopeName" value="File '[Assignments] - ...\Assignments\src\GolfClubs.java'" />
-    <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[Assignments] - ...\Assignments\src\GolfClubs.java'" />
   </component>
 </application>
